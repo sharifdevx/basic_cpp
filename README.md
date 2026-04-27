@@ -6,7 +6,7 @@
 <br>
 <p>
 1# Output
-2# Variables and basic data types ✗
+2# Variables and basic data types
 3# Const
 4# Namespaces 
 5# Typedef and type aliases
@@ -19,4 +19,7 @@
 12# Switches
 13# Console calculator program
 14# Ternary operator
-15# Logical operators </p>
+15# Logical operators
+16# Temperature conversion program
+17# Useful string methods
+</p>
