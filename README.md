@@ -6,7 +6,7 @@
 <br>
 <p>
 1# Output
-2# Variables and basic data types
+2# Variables and basic data types ✗
 3# Const
 4# Namespaces 
 5# Typedef and type aliases
@@ -22,4 +22,12 @@
 15# Logical operators
 16# Temperature conversion program
 17# Useful string methods
+18# While loops
+19# Do while loops
+20# For loops
+21# Break & continue
+22# Nested loops 
+23# Random number generator 
+24# Random event generator
+25# Number guessing game
 </p>
